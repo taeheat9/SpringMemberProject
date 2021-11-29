@@ -1,5 +1,9 @@
 <P CLASS=HStyle0> ERD</P>
+
+<P CLASS=HStyle0> board_table</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG">
+<P CLASS=HStyle0> member2_table</P>
+<img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG">
 <P CLASS=HStyle0> java Bean Graph</P>
 <P CLASS=HStyle0> 1 - root-context.xml</P>
 <P CLASS=HStyle0> 2 - servlet-context.xml</P>
