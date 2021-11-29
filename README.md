@@ -1,18 +1,27 @@
 <P CLASS=HStyle0> ERD</P>
-
 <P CLASS=HStyle0> 1 - board_table</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG">
 <P CLASS=HStyle0> 2- member2_table</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG">
+
 <P CLASS=HStyle0> java Bean Graph</P>
 <P CLASS=HStyle0> 1 - root-context.xml</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/root-context.PNG">
 <P CLASS=HStyle0> 2 - servlet-context.xml</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/servlet-context.PNG">
+
 <P CLASS=HStyle0> URL mapping</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/url_mappings.PNG">
-<P CLASS=HStyle0> 프로젝트 로드맵(Roadmap)</P>
 
+
+<P CLASS=HStyle0> 메인 화면</P>
+<img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/main.PNG">
+
+<P CLASS=HStyle0> 회원가입 화면(Roadmap)</P>
+<img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.PNG">
+
+
+<P CLASS=HStyle0> 프로젝트 로드맵(Roadmap)</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/roadmap.PNG">
 
 
