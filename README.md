@@ -1,5 +1,10 @@
-
-<P CLASS=HStyle0>- 프로젝트 로드맵(Roadmap)</P>
+<P CLASS=HStyle0> ERD</P>
+<img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG">
+<P CLASS=HStyle0> java Bean Graph</P>
+<P CLASS=HStyle0> 1 - root-context.xml</P>
+<P CLASS=HStyle0> 2 - servlet-context.xml</P>
+<P CLASS=HStyle0> URL mapping</P>
+<P CLASS=HStyle0> 프로젝트 로드맵(Roadmap)</P>
 
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/roadmap.PNG">
 
