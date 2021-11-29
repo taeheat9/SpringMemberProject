@@ -17,7 +17,7 @@
 <P CLASS=HStyle0> 메인 화면</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/main.PNG">
 
-<P CLASS=HStyle0> 회원가입 화면(Roadmap)</P>
+<P CLASS=HStyle0> 회원가입 화면</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.PNG">
 
 
