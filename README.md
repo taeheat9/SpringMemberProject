@@ -10,6 +10,7 @@
 <P CLASS=HStyle0> 2 - servlet-context.xml</P>
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/servlet-context.PNG">
 <P CLASS=HStyle0> URL mapping</P>
+<img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/url_mappings.PNG">
 <P CLASS=HStyle0> 프로젝트 로드맵(Roadmap)</P>
 
 <img src="https://github.com/taeheat9/SpringMemberProject/blob/main/show/roadmap.PNG">
